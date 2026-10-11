@@ -21,6 +21,9 @@ export default function AboutPage() {
             Next.js is a minimalistic framework for creating server-rendered
             React applications.
           </p>
+          <p>
+          이것은 브런치 테스트이다.
+          </p>
         </section>
       </div>
 
