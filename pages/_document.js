@@ -11,6 +11,10 @@ class MyDocument extends Document {
       <Html lang="en">
         <Head />
         <body>
+          <p>
+            Next.js is a minimalistic framework for creating server-rendered
+            React applications.
+          </p>
           <Main />
           <NextScript />
         </body>
