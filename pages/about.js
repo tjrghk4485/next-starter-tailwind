@@ -22,7 +22,7 @@ export default function AboutPage() {
             React applications.
           </p>
           <p>
-          이것은 브런치 테스트이다.
+          이것은 브런치 테스트이다.2
           </p>
         </section>
       </div>
